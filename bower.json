@@ -1,0 +1,21 @@
+{
+  "name": "MultiVision",
+  "version": "0.0.0",
+  "authors": [
+    "Slava Kvak <slavakvak@gmail.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "toastr": "~2.1.0",
+    "angular": "~1.3.3",
+    "angular-resource": "~1.3.3",
+    "angular-route": "~1.3.3",
+    "bootstrap": "~3.3.1"
+  }
+}
